@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript",
+    "title": "Hare krishna hare krishna, krishna krishna hare krishna, Hare ram hare ram ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "https://rukminim1.flixcart.com/image/416/416/kh3k1jk0/book/5/8/3/free-programming-book-original-imaf6nqg9hjy3yjz.jpeg?q=70"
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "title": "Hare krishna hare krishna, krishna krishna hare krishna, Hare ram hare ram ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "java.png"
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "title": "Hare krishna hare krishna, krishna krishna hare krishna, Hare ram hare ram ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "python.png"
+  }
+]
